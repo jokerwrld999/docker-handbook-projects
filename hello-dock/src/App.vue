@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/docker-handbook-github.webp" />
-  <HelloDock msg="The Docker Handbook" />
+  <HelloDock msg="The Docker Handbook by Joker" />
 </template>
 
 <script>
